@@ -1,6 +1,6 @@
 # Pipeline Big Data en AWS: logística y satisfacción en e-commerce (Olist)
 
-Pipeline **batch de extremo a extremo** sobre AWS: desde cinco CSV hasta un dashboard en Power BI. Proyecto final del Certificado en Big Data & IA (UAX), Ruta B (Batch).
+Pipeline **batch de extremo a extremo** sobre AWS: desde cinco CSV hasta un dashboard en Power BI. Reto final del módulo de Big Data del Certificado en Big Data & IA (UAX), Ruta B (Batch)
 
 **Dataset:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (99.442 pedidos, 2016-2018). Los CSV no se incluyen en este repositorio: descárgalos desde Kaggle y revisa su licencia.
 
